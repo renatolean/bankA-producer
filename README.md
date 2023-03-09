@@ -1,5 +1,12 @@
 Running example, Bank API
 
+To aid our article, we will be using a running example. Requirements are:
+- SpringBoot 3.X
+- Java 17
+- Lombok
+- WebFlux
+- Spring Cloud Contracts 4.X
+
 
 ```mermaid
     sequenceDiagram
